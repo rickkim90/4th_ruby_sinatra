@@ -1,6 +1,6 @@
 #4차산업혁명 선도인재 양성 프로젝트 과정
 ---
-## 1. Week 1 Day 2: Ruby
+## 1. Week 1 Day 2: Ruby_sinatra
 
 ### Block
 
