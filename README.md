@@ -1,13 +1,13 @@
-Block
+#Block
 
-- Block (of code) == 코드뭉치
+-Block (of code) == 코드뭉치
 
 1. { puts "likelion" }
    do
      puts "hack your life"
    end
 
-iterate
+#iterate
 
 a = [1,2,3,4,5]
 
@@ -19,7 +19,7 @@ hello 5번 출력
 
 a.each { |p| puts p }
 
-Sinatra
+#Sinatra
 
 gem install sinatra
 
