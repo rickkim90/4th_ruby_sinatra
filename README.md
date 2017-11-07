@@ -1,4 +1,8 @@
-#Block
+#4차산업혁명 선도인재 양성 프로젝트 과정
+---
+## 1. Week 1 Day 2: Ruby
+
+### Block
 
 -Block (of code) == 코드뭉치
 
@@ -7,7 +11,7 @@
      puts "hack your life"
    end
 
-#iterate
+### iterate
 
 a = [1,2,3,4,5]
 
@@ -19,7 +23,7 @@ hello 5번 출력
 
 a.each { |p| puts p }
 
-#Sinatra
+### Sinatra
 
 gem install sinatra
 
