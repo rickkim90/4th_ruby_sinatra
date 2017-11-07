@@ -3,6 +3,7 @@
 ## 1. Week 1 Day 2: Ruby
 
 ### Block
+asdfasf
 
 -Block (of code) == 코드뭉치
 
