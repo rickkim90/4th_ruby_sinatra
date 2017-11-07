@@ -56,6 +56,7 @@ get '/lunch' do
        "시골집" => "http://scontent.cdninstagram.com/t51.2885-15/s320x320/sh0.08/e35/14099392_661079487402979_1222276838_n.jpg"
    }
    @menu = a.sample
+   
    erb :lunch
    #동적으로 변환하는 페이지 send할때 views/index.erb 형식으로, views폴더 생성 xxx.erb로 instead of #{xxx}
    #send_file 대신에 erb :xxx
