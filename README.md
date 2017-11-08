@@ -46,3 +46,6 @@ domain 80
 database = permenant storage = file
 
 method 확인 : {}.respond_to?(:sample)
+
+### heroku
+- 클라우드에 업로드..
