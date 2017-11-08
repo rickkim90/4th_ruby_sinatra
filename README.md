@@ -49,3 +49,6 @@ method 확인 : {}.respond_to?(:sample)
 
 ### heroku
 - 클라우드에 업로드..
+- https://git.heroku.com/intense-beach-47237.git
+- -git push heroku master
+- config.ru, Gemfile
